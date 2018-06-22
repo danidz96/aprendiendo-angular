@@ -1,0 +1,9 @@
+.altoPrecio {
+    background-color: blue;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.active {
+    background-color: gray;
+}
